@@ -1,4 +1,4 @@
-##👋 #Olá! Sou o Carlos Leonardo Otoline
+#👋 #Olá! Sou o Carlos Leonardo Otoline
 
 ---
 💻 Desenvolvedor Full Stack & Game Developer
@@ -6,7 +6,7 @@
 ⚡ Sou apaixonado por desenvolvimento de jogos e desenvolvimento de sistemas
 
 ---
-##🚀 Tecnologias Usadas com experiencia
+#🚀 Tecnologias Usadas com experiencia
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
