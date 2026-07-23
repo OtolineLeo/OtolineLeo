@@ -1,9 +1,9 @@
 👋 Olá! Sou o Carlos Leonardo Otoline
 
 ---
-💻 Desenvolvedor Full Stack & Game Developer
-🎓 Bacharelando em Ciência da Computação - UNIFESO
-⚡ Sou apaixonado por desenvolvimento de jogos e desenvolvimento de sistemas
+- 💻 Desenvolvedor Full Stack & Game Developer
+- 🎓 Bacharelando em Ciência da Computação - UNIFESO
+- ⚡ Sou apaixonado por desenvolvimento de jogos e desenvolvimento de sistemas
 
 ---
 🚀 Tecnologias Usadas com experiencia
@@ -44,7 +44,7 @@
 - Aprendizado contínuo e adaptação a novas tecnologias
 
 ---
- 📫 Meu Contato
+- 📫 Meu Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leonardo-otoline-694534278/)  
 
 ---
