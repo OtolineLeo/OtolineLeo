@@ -1,4 +1,4 @@
-#👋 #Olá! Sou o Carlos Leonardo Otoline
+👋 Olá! Sou o Carlos Leonardo Otoline
 
 ---
 💻 Desenvolvedor Full Stack & Game Developer
@@ -6,7 +6,7 @@
 ⚡ Sou apaixonado por desenvolvimento de jogos e desenvolvimento de sistemas
 
 ---
-#🚀 Tecnologias Usadas com experiencia
+🚀 Tecnologias Usadas com experiencia
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,11 +22,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-##📌 Projetos Feitos/em Desenvolvimento
+📌 Projetos Feitos/em Desenvolvimento
 
 
 ---
-##👨‍💻 Sobre mim
+👨‍💻 Sobre mim
 
 - 🎮 Desenvolvendo jogos com **Unreal Engine / Unity** e **C++**
 - 💻 Desenvolvimento de sistemas e **APIs REST**
@@ -35,7 +35,7 @@
 - 🚀 Sempre aprendendo e desenvolvendo novos projetos
 
 ---
-##📌 Aprendizado
+📌 Aprendizado
 
 - Desenvolvimento de APIs REST
 - Desenvolvimento em geral de jogos
@@ -48,7 +48,7 @@
 - Aprendizado contínuo e adaptação a novas tecnologias
 
 ---
-### 📫 Meu Contato
+ 📫 Meu Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leonardo-otoline-694534278/)  
 
 ---
