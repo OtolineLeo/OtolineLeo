@@ -1,4 +1,4 @@
-👋 Olá! Sou o Carlos Leonardo Otoline
+👋 *Olá! Sou o Carlos Leonardo Otoline*
 
 ---
 - 💻 Desenvolvedor Full Stack & Game Developer
